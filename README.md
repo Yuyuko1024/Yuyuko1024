@@ -4,6 +4,8 @@
  - You can call me HearnYuyuko😊
  - I'm a college student of <a href="https://www.acdt.edu.cn/">ACDT</a>.
  - Learning Android App / Android custom ROM Development.
+ - A total touhou fans😉
+ - Not a big fan of the Linux Kernel
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuyuko1024&layout=compact&hide_title=true&hide_border=true" />
 
